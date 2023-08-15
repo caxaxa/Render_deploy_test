@@ -1,0 +1,7 @@
+# Introducing Ratio Verified Marketer Levels
+
+Ratio assigns marketers four different types of badges based on their API-verified data. A Master badge is the highest rank, followed by Experts, Professionals, and Contributors in that order. 
+
+Rankings are based on both normal and logarithmic distributions that map onto the four badges in quartiles that are ranked against both national averages and marketers on the platform. We assign them on both the metric (like Cost-per-Click) and the segment (like Automotive Repair). 
+
+Marketers may be a Master in one segment and a contributor in another - it all depends on the data they have available for Ratio to verify.

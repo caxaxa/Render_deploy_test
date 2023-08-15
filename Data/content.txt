@@ -1,0 +1,26 @@
+'''# Revealing Ratio's Badge Classification System: A Journey Through Your Metrics
+
+Ever wonder what's behind the badges on Ratio's platform? Let's peel back the curtain and reveal the magic of our badge classification system, all designed to give you insightful data on your ad performance.
+
+## Understanding the Mechanism
+
+At the heart of our system are your ad metrics – key indicators such as Cost Per Click (CPC), Cost Per Lead (CPL), Conversion Rate (CR), and Return on Ad Spend (ROAS). We take a weighted average of these factors to create a unique score for your ads.
+
+## Earning Your Stripes: What Badges Mean
+
+In the Ratio world, you'll start earning badges as soon as you upload more than three ads. Now, these badges aren't just shiny tokens; they speak volumes about your prowess.
+
+If you've earned a "Master" badge, hats off to you! This means you're part of the top 25% performers for a specific metric in a category. Holding an "Expert" badge is equally commendable, putting you in the top 50% performers. "Professionals" fall within the bottom 50%, and if they're in the lower 25%, there's always room for improvement.
+
+
+## Our Sources
+
+Our framework is backed by solid data from industry leaders. Each year, we leverage averages for these metrics, released by Google and Meta. These, coupled with the observed behavior of the ads, allow us to infer the boundaries for each badge.
+
+For key metrics such as revenue, impressions, and ad spend, we steer away from national averages. Instead, these stats are calculated based on the performance of users right here on Ratio. To truly master these indicators, you'll need to outpace your peers on Ratio - a thrilling contest that's no easy feat!
+
+## Play with the Data
+
+Curious about the distribution of metrics for each category? Go ahead and interact with the dashboard below. Understand the limits, play around, and discover how you can optimize your performance.
+
+Here at Ratio, our badge system is all about recognizing your achievements and guiding you on the path to continued success. Start your journey today, and who knows? You might soon be part of our "Master" league. '''

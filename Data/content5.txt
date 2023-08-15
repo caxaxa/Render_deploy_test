@@ -1,0 +1,6 @@
+## Contributor Level
+The “Contributor” level designates performance that is in the bottom 25%, well below the national averages for that category. Contributors are just starting to build a performance track record in the segment.
+## Ratio Contributors
++	May have a smaller body of work to sample from
++	Have uploaded at least one campaign in any given category for analysis
++	Perform in the bottom 25% of the national averages in the category
